@@ -2,6 +2,9 @@ package com.promineotech;
 
 public class Loops {
 
+	/**
+         * This is the way we do things.
+         */
 	public static void main(String[] args) {
 		/**
 		 * We can loop with 2 types of structures. 1- standard loop syntax 2- while +
